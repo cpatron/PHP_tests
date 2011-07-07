@@ -8,8 +8,10 @@
         
         <?php
         
-            //$username = $_GET("uname");
-            //$tweeter = $_GET("tweets");
+            /*
+             * Aqui va el codigo para recuperar las variables $username y $tweeter desde un form
+             */
+            
             $username = "joepr25";
             $tweeter = "100";
             
