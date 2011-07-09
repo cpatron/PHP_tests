@@ -10,7 +10,7 @@
             <font face="Verdana" color="Green" size="3">Introduce cual es el nombre de la persona de la cual quieres obtener los ultimos tweets.</font>
         </p>
         
-        <form action="index.php/tweetscontroller" method="get">
+        <form action="index.php/tweetscontroller" method="post">
         User Name: <input type="text" name="uname" /> 
         <br>
         Numero de Tweets: <input type="text" name="tweets" />
