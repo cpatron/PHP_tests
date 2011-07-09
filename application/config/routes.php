@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "controllerClass";
+$route['default_controller'] = "ControladorTweets";
 $route['404_override'] = '';
 
 

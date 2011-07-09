@@ -2,14 +2,21 @@
 	<head>
 			<title></title>
 	<body>
-		<p>Mis tweets</p>
+		<p>
+                    <?php
+                        print("Estos son los ultimos ".$number." del usuario ".$username."");
+                    ?>
+                </p>
 		
 	<?php
 		
+                print("<font face=\"LucidaSans\" color=\"blue\">");
 		foreach($records as $tweet) {
-			echo "<br>";
-		     echo $tweet->text;
+                    
+                    print("<p>".$tweet->text."</p>");
+
 		 }
+                 print("</font>")
 		
 	?>
 	</body>
