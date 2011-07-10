@@ -1,0 +1,21 @@
+body
+{ 
+    background-attachment: fixed;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: #3333ff;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+}
+
+#forma
+{
+    margin: 5em auto 0;
+    background-image: url(../Images/wallpaper-espacio1.jpg);
+    width: 20%;
+    padding: 32px;
+    border: 1px solid #d5d5d5;
+    color: silver;
+}
