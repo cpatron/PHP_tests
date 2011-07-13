@@ -12,6 +12,9 @@
     <p><a href="./index.php/controladortweets/loadtweets">Prueba Tweets</a></p>
     
     <p><a href="./index.php/controladortweets/loademail">Prueba Email</a></p>
+    
+    <p><a href="./index.php/controladorcrud/">Prueba Crud</a></p>
+
         
     
     </body>

@@ -6,6 +6,8 @@ class Controladortweets extends Ci_Controller{
             $this->load->view('firstpage');
 
 	}
+        
+
        
         function loadtweets(){
             
